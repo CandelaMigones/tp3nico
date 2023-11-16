@@ -1,0 +1,168 @@
+{   "audio":"audios/SonidoCompleto.MP3",
+    "modelo":"modelos/tp3.glb",
+    "fondo":"rgb(0,0,0)",
+    "data" :
+        [
+           {
+                "tiempo":"00:00",
+                "duracion":0,
+                "camara":"Camara1",
+                "target":"Target1",
+                "nombre":"mirando montaña"
+           },
+           {
+               "tiempo":"00:08",
+               "duracion":2000,
+               "camara":"Camara2",
+               "target":"Target1",
+               "nombre":"rodeando montaña"
+          },
+          {
+               "tiempo":"00:13",
+               "duracion":2000,
+               "camara":"Camara3",
+               "target":"Target2",
+               "nombre":"vista desde arriba"
+          },
+          {
+               "tiempo":"00:26",
+               "duracion":2000,
+               "camara":"Camara4",
+               "target":"Target3",
+               "nombre":"bajando montaña"
+          },
+          {
+               "tiempo":"00:28",
+               "duracion":2000,
+               "camara":"Camara5",
+               "target":"Target4",
+               "nombre":"camino"
+          },
+          {
+               "tiempo":"00:30",
+               "duracion":4000,
+               "camara":"Camara6",
+               "target":"Target5",
+               "nombre":"transitando camino"
+          },
+          {
+               "tiempo":"00:41",
+               "duracion":2000,
+               "camara":"Camara7",
+               "target":"Target5",
+               "nombre":"terminando camino"
+          },
+          {
+               "tiempo":"00:44",
+               "duracion":2000,
+               "camara":"Camara8",
+               "target":"Target5",
+               "nombre":"acercandose rosas"
+          },
+          {
+               "tiempo":"00:46",
+               "duracion":2000,
+               "camara":"Camara9",
+               "target":"Target5",
+               "nombre":"en rosas"
+          },
+          {
+               "tiempo":"01:01",
+               "duracion":2000,
+               "camara":"Camara10",
+               "target":"Target6",
+               "nombre":"hablando con rosas"
+          },
+          {
+               "tiempo":"01:20",
+               "duracion":2000,
+               "camara":"Camara11",
+               "target":"Target7",
+               "nombre":"yendo a arbol"
+          },
+          {
+               "tiempo":"01:25",
+               "duracion":2000,
+               "camara":"Camara12",
+               "target":"Target8",
+               "nombre":"yendo a arbol2"
+          },
+          {
+               "tiempo":"01:27",
+               "duracion":2000,
+               "camara":"Camara13",
+               "target":"Target9",
+               "nombre":"yendo a arbol3"
+          },
+          {
+               "tiempo":"01:30",
+               "duracion":2000,
+               "camara":"Camara14",
+               "target":"Target9",
+               "nombre":"arbol"
+          },
+          {
+               "tiempo":"01:42",
+               "duracion":2000,
+               "camara":"Camara15",
+               "target":"Target9",
+               "nombre":"volviendo a rosa"
+          },
+          {
+               "tiempo":"01:44",
+               "duracion":2000,
+               "camara":"Camara16",
+               "target":"Target10",
+               "nombre":"giro a rosa"
+          },
+          {
+               "tiempo":"01:46",
+               "duracion":2000,
+               "camara":"Camara17",
+               "target":"Target11",
+               "nombre":"mirando a rosa"
+          },
+          {
+               "tiempo":"02:00",
+               "duracion":5000,
+               "camara":"Camara18",
+               "target":"Target12",
+               "nombre":"en rosa"
+          },
+          {
+               "tiempo":"02:44",
+               "duracion":3000,
+               "camara":"Camara19",
+               "target":"Target12",
+               "nombre":"alejandose de rosa"
+          },
+          {
+               "tiempo":"02:47",
+               "duracion":1000,
+               "camara":"Camara20",
+               "target":"Target9",
+               "nombre":"mirando a arbol"
+          },
+          {
+               "tiempo":"02:55",
+               "duracion":3000,
+               "camara":"Camara21",
+               "target":"Target13",
+               "nombre":"plano general"
+          },
+          {
+               "tiempo":"03:11",
+               "duracion":5000,
+               "camara":"Camara22",
+               "target":"Target13",
+               "nombre":"acercandose a rosa central"
+          },
+          {
+               "tiempo":"03:34",
+               "duracion":2000,
+               "camara":"Camara23",
+               "target":"Target14",
+               "nombre":"rosa final"
+          }
+      ]
+}
